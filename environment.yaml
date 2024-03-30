@@ -1,4 +1,4 @@
-name: learn-python-4dl
+name: learn-pytorch-4dl
 channels:
   - pytorch
   - conda-forge
@@ -18,7 +18,7 @@ dependencies:
   - brotli-python=1.0.9=py312hcec6c5f_7
   - bzip2=1.0.8=h6c40b1e_5
   - ca-certificates=2024.3.11=hecd8cb5_0
-  - certifi=2024.2.2=pyhd8ed1ab_0
+  - certifi=2024.2.2=py312hecd8cb5_0
   - cffi=1.16.0=py312h6c40b1e_0
   - charset-normalizer=2.0.4=pyhd3eb1b0_0
   - comm=0.2.1=py312hecd8cb5_0
@@ -138,4 +138,4 @@ dependencies:
   - zeromq=4.3.5=hcec6c5f_0
   - zlib=1.2.13=h4dc903c_0
   - zstd=1.5.5=hc035e20_0
-prefix: /opt/homebrew/Caskroom/miniconda/base/envs/learn-python-4dl
+prefix: /opt/homebrew/Caskroom/miniconda/base/envs/learn-pytorch-4dl
